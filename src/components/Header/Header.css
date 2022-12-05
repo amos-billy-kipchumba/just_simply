@@ -1,0 +1,27 @@
+.header_button {
+    background-color: lightseagreen;
+    color: white;
+    transition: all 0.3s ease-in-out;
+    margin-top: 10px;
+    text-transform: inherit;
+}
+
+.header_button:hover {
+    color: lightseagreen;
+    background-color: white;
+    border: 1px solid lightseagreen;
+}
+
+.transMe {
+    transition: all 0.3s ease-in-out;
+}
+
+.nav__black {
+    background-color: lightseagreen;
+    color: white;
+    position: fixed;
+}
+
+.mimo {
+    color: rgb(17 24 39 / var(--tw-text-opacity));
+}
